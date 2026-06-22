@@ -1,17 +1,4 @@
 {
-  "articles": [
-    {
-      "id": 1782144722928,
-      "cat": "AV-Fistel",
-      "title": "Warum es Vascular Access Talk gibt",
-      "excerpt": "Ein persönlicher Blog braucht eine persönliche Erklärung: Warum ich diese Seite erstellt habe — und für wen sie gedacht ist.",
-      "body": "Warum es Vascular Access Talk gibt\nEin funktionierender Dialysezugang ist für viele Patientinnen und Patienten weit mehr als ein technisches Detail. Er ist eine Lebensader. Ohne einen zuverlässigen Gefäßzugang ist eine sichere und regelmäßige Hämodialyse nicht möglich.\nIn meiner täglichen Arbeit als Gefäßchirurg gehört die Dialysezugangschirurgie seit vielen Jahren zu meinen zentralen Schwerpunkten — von der ersten arteriovenösen Fistel über komplexe Revisionen bis hin zu interventionellen Verfahren und schwierigen Situationen bei zentralvenösen Verschlüssen.\nDabei erlebe ich immer wieder, dass gute Dialysezugangsmedizin weit über die Operation selbst hinausgeht. Sie braucht sorgfältige Planung, Erfahrung, Timing und eine enge Zusammenarbeit zwischen Chirurgie, Nephrologie, Dialysezentren, Pflege, interventionellen Kolleginnen und Kollegen — und natürlich den Patientinnen und Patienten selbst.\nGenau aus diesem Grund ist Vascular Access Talk entstanden.\nDiese Seite soll ein Ort sein, an dem ich Gedanken, Erfahrungen und Beobachtungen aus der täglichen Praxis teile: klinische Fragen, typische Herausforderungen, neue Entwicklungen, interessante Publikationen und praktische Aspekte der Shuntchirurgie und Dialysezugangsmedizin.\nDie Inhalte richten sich an Kolleginnen und Kollegen aus Gefäßchirurgie, Nephrologie, interventioneller Medizin und Dialysepflege — aber auch an interessierte Patientinnen und Patienten, die besser verstehen möchten, warum bestimmte Entscheidungen getroffen werden und welche Faktoren für einen langfristig funktionierenden Dialysezugang wichtig sind.\nVascular Access Talk ist kein Ersatz für eine individuelle ärztliche Beratung und keine offizielle institutionelle Stellungnahme. Es ist ein persönlicher Fachblog — geprägt durch klinische Erfahrung, wissenschaftliches Interesse und den Wunsch, den Austausch über dieses wichtige Thema zu fördern.\nIch freue mich, wenn diese Seite dazu beiträgt, Wissen zu teilen, Fragen anzustoßen und den Dialog rund um Dialysezugänge lebendiger zu machen.",
-      "date": "2026-06-22",
-      "author": "Dr. V. Matoussevitch",
-      "img": "https://vascularaccesstalk.com/admin/",
-      "extraImgs": [],
-      "youtube": ""
-    }
-  ],
+  "articles": [],
   "version": 1
 }

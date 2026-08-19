@@ -1,4 +1,26 @@
 {
-  "articles": [],
+  "articles": [
+    {
+      "id": 1782333425098,
+      "cat": "Allgemeines",
+      "title": "Warum es Vascular Access Talk gibt",
+      "excerpt": "Ein persönlicher Blog braucht eine persönliche Erklärung: Warum ich diese Seite erstellt habe — und für wen sie gedacht ist.",
+      "body": "Warum es Vascular Access Talk gibt\nEin funktionierender Dialysezugang ist für viele Patientinnen und Patienten weit mehr als ein technisches Detail. Er ist eine Lebensader. Ohne einen zuverlässigen Gefäßzugang ist eine sichere und regelmäßige Hämodialyse nicht möglich.\nIn meiner täglichen Arbeit als Gefäßchirurg gehört die Dialysezugangschirurgie seit vielen Jahren zu meinen zentralen Schwerpunkten — von der ersten arteriovenösen Fistel über komplexe Revisionen bis hin zu interventionellen Verfahren und schwierigen Situationen bei zentralvenösen Verschlüssen.\nDabei erlebe ich immer wieder, dass gute Dialysezugangsmedizin weit über die Operation selbst hinausgeht. Sie braucht sorgfältige Planung, Erfahrung, Timing und eine enge Zusammenarbeit zwischen Chirurgie, Nephrologie, Dialysezentren, Pflege, interventionellen Kolleginnen und Kollegen — und natürlich den Patientinnen und Patienten selbst.\nGenau aus diesem Grund ist Vascular Access Talk entstanden.\nDiese Seite soll ein Ort sein, an dem ich Gedanken, Erfahrungen und Beobachtungen aus der täglichen Praxis teile: klinische Fragen, typische Herausforderungen, neue Entwicklungen, interessante Publikationen und praktische Aspekte der Shuntchirurgie und Dialysezugangsmedizin.\nDie Inhalte richten sich an Kolleginnen und Kollegen aus Gefäßchirurgie, Nephrologie, interventioneller Medizin und Dialysepflege — aber auch an interessierte Patientinnen und Patienten, die besser verstehen möchten, warum bestimmte Entscheidungen getroffen werden und welche Faktoren für einen langfristig funktionierenden Dialysezugang wichtig sind.\nVascular Access Talk ist kein Ersatz für eine individuelle ärztliche Beratung und keine offizielle institutionelle Stellungnahme. Es ist ein persönlicher Fachblog — geprägt durch klinische Erfahrung, wissenschaftliches Interesse und den Wunsch, den Austausch über dieses wichtige Thema zu fördern.\nIch freue mich, wenn diese Seite dazu beiträgt, Wissen zu teilen, Fragen anzustoßen und den Dialog rund um Dialysezugänge lebendiger zu machen.",
+      "date": "2026-06-22",
+      "author": "Dr. V. Matoussevitch",
+      "img": "",
+      "extraImgs": [],
+      "youtube": "",
+      "titleEn": "Why Vascular Access Talk Exists",
+      "excerptEn": "A personal blog needs a personal explanation. Why I created this site — and who it is for.",
+      "bodyEn": "A functioning dialysis access is for many patients far more than a technical detail. It is a lifeline. Without a reliable vascular access, safe and regular haemodialysis is not possible.\nIn my daily work as a vascular surgeon, dialysis access surgery has been one of my central areas of focus for many years — from the first arteriovenous fistula to complex revisions, interventional procedures and challenging situations involving central venous occlusions.\nTime and again, I find that good dialysis access medicine goes far beyond the operation itself. It requires careful planning, experience, timing and close collaboration between surgery, nephrology, dialysis centres, nursing staff, interventional colleagues — and of course the patients themselves.\nThis is precisely why Vascular Access Talk was created.\nThis site is intended to be a place where I share thoughts, experiences and observations from daily clinical practice: clinical questions, typical challenges, new developments, interesting publications and practical aspects of shunt surgery and dialysis access medicine.\nThe content is aimed at colleagues from vascular surgery, nephrology, interventional medicine and dialysis nursing — but also at interested patients who would like to better understand why certain decisions are made and what factors are important for a long-term functioning dialysis access.\nVascular Access Talk is not a substitute for individual medical advice and not an official institutional statement. It is a personal specialist blog — shaped by clinical experience, scientific interest and the desire to promote exchange on this important topic.\nI hope this site contributes to sharing knowledge, raising questions and making the dialogue around dialysis access more vibrant.\nDr. Vladimir Matoussevitch\nVascular and Endovascular Surgery\nDialysis Access Surgery",
+      "titleRu": "Почему существует Vascular Access Talk",
+      "excerptRu": "Личный блог требует личного объяснения. Почему я создал этот сайт — и для кого он предназначен.",
+      "bodyRu": "Функционирующий диализный доступ для многих пациентов — это гораздо больше, чем технический вопрос. Это жизненная артерия. Без надёжного сосудистого доступа безопасный и регулярный гемодиализ невозможен.\nДоктор Владимир Матуссевич\nСосудистая и эндоваскулярная хирургия\nХирургия диализного доступа",
+      "titleHe": "מדוע קיים Vascular Access Talk",
+      "excerptHe": "בלוג אישי זקוק להסבר אישי. מדוע יצרתי אתר זה — ולמי הוא מיועד.",
+      "bodyHe": "גישה תקינה לדיאליזה היא עבור מטופלים רבים הרבה יותר מפרט טכני. היא עורק חיים.\nד״ר ולדימיר מטוסביץ\nכירורגיה וסקולרית ואנדווסקולרית\nכירורגיית גישה לדיאליזה"
+    }
+  ],
   "version": 1
 }

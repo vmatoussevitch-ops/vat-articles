@@ -1,0 +1,10 @@
+name: Netlify-Neubau
+on:
+  push:
+    branches: [main]
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build-Hook auslösen
+        run: curl -fsS -X POST -d '{}' https://api.netlify.com/build_hooks/6a3bf1b117ed5a5bc4a01e08
